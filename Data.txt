@@ -1,6 +1,6 @@
 Welcome to the Birla Institute of Technology...
 
-Course
-java
-php
-c++ 
+Course  price
+java    10000
+php     2000
+c++     5000
